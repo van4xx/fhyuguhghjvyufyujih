@@ -1,0 +1,343 @@
+.div2,
+.div3 {
+  position: absolute;
+  top: 0;
+}
+.div2 {
+  left: 0;
+  background-color: var(--color-white);
+  width: 1600px;
+  height: 900px;
+}
+.div3 {
+  left: 729px;
+  font-size: 45px;
+  font-weight: 500;
+  -webkit-text-stroke: 1px #000;
+}
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 407px;
+  left: 232px;
+  font-weight: 500;
+}
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 810px;
+  left: 238px;
+}
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 732px;
+}
+.div7,
+.div8,
+.div9 {
+  left: 1208px;
+}
+.div8,
+.div9 {
+  top: 407px;
+  left: 637px;
+}
+.div9 {
+  left: 1148px;
+}
+.icon,
+.icon1,
+.icon2,
+.icon3,
+.icon4,
+.icon5 {
+  position: absolute;
+  top: 496px;
+  left: 1063px;
+  border-radius: var(--br-31xl);
+  width: 450px;
+  height: 300px;
+  object-fit: cover;
+}
+.icon1,
+.icon2,
+.icon3,
+.icon4,
+.icon5 {
+  top: 93px;
+  left: 87px;
+}
+.icon2,
+.icon3,
+.icon4,
+.icon5 {
+  left: 575px;
+}
+.icon3,
+.icon4,
+.icon5 {
+  left: 1063px;
+}
+.icon4,
+.icon5 {
+  top: 496px;
+  left: 575px;
+}
+.icon5 {
+  left: 87px;
+}
+.div1,
+.div11 {
+  position: absolute;
+  top: 900px;
+  left: 0;
+  width: 1600px;
+  height: 900px;
+}
+.div11 {
+  top: 0;
+  background: linear-gradient(180deg, #eda418 47.4%, rgba(237, 164, 24, 0));
+}
+.div12 {
+  top: 367px;
+  left: 130px;
+  font-size: 32px;
+  font-weight: 800;
+  display: inline-block;
+  width: 572px;
+  height: 63px;
+}
+.child,
+.div12,
+.div13 {
+  position: absolute;
+}
+.div13 {
+  top: 459px;
+  left: 130px;
+  font-size: 16px;
+  display: inline-block;
+  width: 497px;
+  height: 35px;
+}
+.child {
+  width: calc(100% - 38.6px);
+  top: 0;
+  right: 38.6px;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: #e52626;
+  height: 60px;
+}
+.div14 {
+  width: calc(100% - 18px);
+  top: 14px;
+  left: 18px;
+  font-size: 24px;
+  font-family: var(--font-montserrat);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  height: 39px;
+}
+.button,
+.div14,
+.item {
+  position: absolute;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: calc(100% - 1419.14px);
+  top: 523px;
+  right: 1289.14px;
+  left: 130px;
+  height: 60px;
+}
+.item {
+  top: 0;
+  left: 3px;
+  border-radius: 10px;
+  width: 50px;
+  height: 57px;
+}
+.vf,
+.vintage-food {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 66px;
+  height: 56.2px;
+}
+.vintage-food {
+  top: 12px;
+  left: 66px;
+  font-size: var(--font-size-6xl);
+  font-weight: 900;
+  color: var(--color-black);
+  width: 288.42px;
+  height: 60.51px;
+}
+.div15 {
+  position: absolute;
+  top: 105px;
+  left: 130px;
+  width: 354.42px;
+  height: 72.51px;
+  font-size: 30px;
+  color: var(--color-white);
+}
+.b,
+.div16 {
+  top: 117px;
+  display: inline-block;
+  width: 151.5px;
+  height: 37.47px;
+}
+.b {
+  position: absolute;
+  left: 632px;
+}
+.div16 {
+  left: 850px;
+  font-weight: 500;
+}
+.div16,
+.div17,
+.inner {
+  position: absolute;
+}
+.div17 {
+  top: 117px;
+  left: 1032px;
+  font-weight: 500;
+  display: inline-block;
+  width: 151.5px;
+  height: 37.47px;
+}
+.inner {
+  top: 0;
+  left: 0;
+  width: 70px;
+  height: 70px;
+}
+.shopping-cart-1-1-icon {
+  position: absolute;
+  top: 17px;
+  left: 15px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.button1,
+.icon6 {
+  position: absolute;
+}
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 101px;
+  left: 1232px;
+  width: 70px;
+  height: 70px;
+}
+.icon6 {
+  top: 194px;
+  left: 740px;
+  width: 642.69px;
+  height: 600px;
+  object-fit: cover;
+}
+.div10,
+.div19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1600px;
+}
+.div10 {
+  height: 900px;
+  font-size: var(--font-size-6xl);
+}
+.div19 {
+  background: linear-gradient(180deg, rgba(217, 217, 217, 0), #eda61d);
+  height: 450px;
+}
+.telegram-icon,
+.vk-circled-icon {
+  position: absolute;
+  top: 315px;
+  left: 800px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.vk-circled-icon {
+  top: 320px;
+  left: 744px;
+  width: 50px;
+  height: 50px;
+}
+.div20,
+.div21,
+.vintage-food1 {
+  position: absolute;
+  top: 274px;
+  left: 674px;
+  font-weight: 500;
+}
+.div21,
+.vintage-food1 {
+  top: 157px;
+  left: 279px;
+}
+.vintage-food1 {
+  top: 226px;
+  left: 693px;
+}
+.div22,
+.div23 {
+  position: absolute;
+  top: 157px;
+  left: 631px;
+}
+.div23 {
+  left: 1069px;
+}
+.div,
+.div18 {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.div18 {
+  position: absolute;
+  top: 1799px;
+  left: 0;
+  width: 1600px;
+  height: 450px;
+  font-size: var(--font-size-xl);
+}
+.div {
+  position: relative;
+  max-width: 1600px;
+  width: auto;
+  height: 2250px;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
